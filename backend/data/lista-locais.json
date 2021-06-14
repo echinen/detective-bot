@@ -1,0 +1,44 @@
+{
+    "locais": [
+        {
+            "nome": "Redmond",
+            "registro": "1"
+        },
+        {
+            "nome": "Palo Alto",
+            "registro": "2"
+        },
+        {
+            "nome": "San Francisco",
+            "registro": "3"
+        },
+        {
+            "nome": "Tokio",
+            "registro": "4"
+        },
+        {
+            "nome": "Restaurante no Fim do Universo",
+            "registro": "5"
+        },
+        {
+            "nome": "São Paulo",
+            "registro": "6"
+        },
+        {
+            "nome": "Cupertino",
+            "registro": "7"
+        },
+        {
+            "nome": "Helsinki",
+            "registro": "8"
+        },
+        {
+            "nome": "Maida Vale",
+            "registro": "9"
+        },
+        {
+            "nome": "Toronto",
+            "registro": "10"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "detective-bot",
+  "version": "1.0.0",
+  "description": "This project was designed as to learn the basic of Docker using Node.js in order to create the app.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./desktop/app.js",
+    "build": "docker build -f Dockerfile -t echinen/detetive-bot",
+    "up": "docker run -i echinen/detetive-bot"
+  },
+  "author": "Eric Chinen",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}

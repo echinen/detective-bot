@@ -1,0 +1,28 @@
+{
+    "armas": [
+        {
+            "nome": "Peixeira",
+            "registro": "1"
+        },
+        {
+            "nome": "DynaTAC 8000X (o primeiro aparelho celular do mundo)",
+            "registro": "2"
+        },
+        {
+            "nome": "Trezoitão",
+            "registro": "3"
+        },
+        {
+            "nome": "Trebuchet",
+            "registro": "4"
+        },
+        {
+            "nome": "Maça",
+            "registro": "5"
+        },
+        {
+            "nome": "Gládio",
+            "registro": "6"
+        }
+    ]
+}

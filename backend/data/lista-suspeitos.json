@@ -1,0 +1,28 @@
+{
+    "suspeitos": [
+        {
+            "nome": "Charles B. Abbage",
+            "registro": "1"
+        },
+        {
+            "nome": "Donald Duck Knuth",
+            "registro": "2"
+        },
+        {
+            "nome": "Ada L. Ovelace",
+            "registro": "3"
+        },
+        {
+            "nome": "Alan T. Uring",
+            "registro": "4"
+        },
+        {
+            "nome": "Ivar J. Acobson",
+            "registro": "5"
+        },
+        {
+            "nome": "Ras Mus Ler Dorf",
+            "registro": "6"
+        }
+    ]
+}
